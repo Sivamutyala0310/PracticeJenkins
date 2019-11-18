@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PracticeJenkinsValidation" duration-ms="0" started-at="2019-11-18T11:07:27Z" finished-at="2019-11-18T11:07:27Z">
+    <groups>
+    </groups>
+  </suite> <!-- PracticeJenkinsValidation -->
+  <suite name="PracticeJenkinsValidation (0)" duration-ms="18146" started-at="2019-11-18T11:07:08Z" finished-at="2019-11-18T11:07:26Z">
+    <groups>
+    </groups>
+    <test name="Validation tests" duration-ms="18146" started-at="2019-11-18T11:07:08Z" finished-at="2019-11-18T11:07:26Z">
+      <class name="com.atmecs.PracticeJenkins.testscripts.PracticeJenkinsTestcase">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.PracticeJenkins.testscripts.PracticeJenkinsTestcase@6f1fba17]" name="initializeBrowser" is-config="true" duration-ms="7101" started-at="2019-11-18T11:07:08Z" finished-at="2019-11-18T11:07:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.atmecs.PracticeJenkins.testscripts.PracticeJenkinsTestcase@6f1fba17]" name="before" is-config="true" duration-ms="10781" started-at="2019-11-18T11:07:15Z" finished-at="2019-11-18T11:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.atmecs.PracticeJenkins.testscripts.PracticeJenkinsTestcase@6f1fba17]" name="testcase1" duration-ms="218" started-at="2019-11-18T11:07:26Z" finished-at="2019-11-18T11:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.atmecs.PracticeJenkins.testscripts.PracticeJenkinsTestcase@6f1fba17]" name="quitDriver" is-config="true" duration-ms="914" started-at="2019-11-18T11:07:26Z" finished-at="2019-11-18T11:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.atmecs.PracticeJenkins.testscripts.PracticeJenkinsTestcase -->
+    </test> <!-- Validation tests -->
+  </suite> <!-- PracticeJenkinsValidation (0) -->
+</testng-results>
