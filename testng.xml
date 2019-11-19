@@ -4,5 +4,7 @@
 	<suite-files>
 		<suite-file
 			path="./src\test\resources\suites\PracticeJenkinsTestcase1.xml" />
+		<suite-file
+			path="./src\test\resources\suites\PracticeJenkinsTestcase2.xml" />
 	</suite-files>
 </suite> <!-- PracticeJenkinsValidation -->

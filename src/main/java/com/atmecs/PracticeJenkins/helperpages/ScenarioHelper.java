@@ -24,6 +24,6 @@ public class ScenarioHelper {
 	}
 
 	public void performAction() throws IOException {
-		System.out.println("PRACTICING JENKINS");
+		System.out.println("executing through jenkins");
 	}
 }
